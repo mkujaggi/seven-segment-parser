@@ -1,5 +1,4 @@
 const fs = require('fs');
-const constants = require('./constants');
 sevenSegParser = (inputFile,outputFile) => {
     var input = fs.readFileSync(inputFile);
     var inputSplit = input.toString().split('\n');
