@@ -1,0 +1,27 @@
+{
+  "name": "seven-segment-invoice-parser",
+  "version": "1.0.0",
+  "description": "Converts text file containing seven segment numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkujaggi/seven-segment-parser.git"
+  },
+  "keywords": [
+    "invoice",
+    "parser",
+    "Seven-segment",
+    "invoice parser",
+    "seven segment invoice parser",
+    "nodejs"
+  ],
+  "author": "Mukul Jaggi <mkujaggi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkujaggi/seven-segment-parser/issues"
+  },
+  "homepage": "https://github.com/mkujaggi/seven-segment-parser#readme"
+}
